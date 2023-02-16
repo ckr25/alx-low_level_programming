@@ -1,7 +1,7 @@
 #include <stdio.h>
+
 /**
  * main - staring point
- *
  * return: 0 (success)
  */
 int main(void) 
