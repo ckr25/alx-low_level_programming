@@ -4,7 +4,7 @@
 /**
  * main - C programming variables
  *
- * return: Always 0(Success)
+ * Return: Always 0(Success)
  */
 int main(void)/*this specifies there are no arguments taken by main*/
 {
