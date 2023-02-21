@@ -1,4 +1,4 @@
-#include <unistd.h>
+#include "main.h"
 /*
  * main - Entry point 
  * prints _putchar
@@ -7,13 +7,17 @@
  */
 int main(void)
 {
-	char output[] = "_putchar\n";
-	int length = sizeof(output);
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 
-	for (int i = 0; i < length; i++)
-	{
-		_putchar (output[i]);
-	}
+
 
 	return (0);
 }
