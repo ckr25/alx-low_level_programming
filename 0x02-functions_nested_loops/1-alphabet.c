@@ -1,0 +1,20 @@
+#include "main.h"
+/**
+ * main - Entry point
+ * 1-alphabet.c - Prints alphabet
+ *
+ * Return: Always 0 (Success)
+ */
+void prin_alphabet(void)
+{
+	char c = 'a';
+
+	while(c <= 'z')
+	{
+		_putchar(c);
+		c++;
+	}
+	_putchar('\n');
+
+	return (0);
+}
