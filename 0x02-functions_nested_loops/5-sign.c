@@ -5,7 +5,7 @@
  *
  * Return: 0 or 1
  */
-int print_ sign(int n)
+int print_sign(int n)
 {
 	int test;
 
