@@ -5,7 +5,7 @@
  * @a: 2d array of int types
  * @size: size of array
  */
-void print_diagsum(int *a, int size)
+void print_diagsums(int *a, int size)
 {
 	int i, sum1 = 0, sum2 = 0;
 
