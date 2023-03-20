@@ -29,5 +29,3 @@ void print_dog(struct dog *d)
 	{
 		pintf("Owmner: %s\n", d->owner);
 	}
-	return (0);
-}
