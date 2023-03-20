@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "main.h"
+#include "dog.h"
 #include <stdlib.h>
 /**
  * print_dog - prints name, age and owner if not null
