@@ -29,4 +29,5 @@ void print_dog(struct dog *d)
 	{
 		printf("Owmner: %s\n", d->owner);
 	}
+	return (0);
 }
