@@ -2,7 +2,7 @@
 #include "function_pointers.h"
 /**
  * int_index - searches for an interger
- * @array: name passed 
+ * @array: name passed
  * @size: number of iterations
  * @cmp: points to a function
  * Return: void
