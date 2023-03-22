@@ -4,10 +4,10 @@
  * parameter
  * @size: size of array
  * @action: function pointer
- *
+ * @array: the array
  * Return: void
  */
-void array_iterator(int *array, size_t size, void (*action)(int ))
+void array_iterator(int *array, size_t size, void (*action)(int))
 {
 	unsigned int i;
 
