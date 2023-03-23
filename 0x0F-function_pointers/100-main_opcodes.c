@@ -4,7 +4,7 @@
 /**
  * main - a program that prints its own opcodes
  * @argc: number of command line arguments
- * @argv: array of strings that contain each command line 
+ * @argv: array of strings that contain each command line
  * argument
  * Return: returns 0 (Success)
  */
@@ -32,7 +32,7 @@ int main(int argc, char *argv[])
 		exit(2);
 	}
 
-	str = (char*) main;
+	str = (char *) main;
 	for (i = 0; i < n; i++)
 	{
 		if (i == n - 1)
