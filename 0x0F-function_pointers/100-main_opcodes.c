@@ -11,7 +11,7 @@
 int main(int argc, char *argv[])
 {
 	int i, n;
-	char str;
+	char *str;
 
 	if (argc != 2)
 	{
@@ -32,7 +32,7 @@ int main(int argc, char *argv[])
 		exit(2);
 	}
 
-	str = (char *) main;
+	str = (char*) main;
 	for (i = 0; i < n; i++)
 	{
 		if (i == n - 1)
