@@ -5,7 +5,7 @@
  * @argv: is a counter for value of the argument to char
  * Return: Always success
  **/
-int main(int argc, *argv[])
+int main(int argc, char *argv[])
 {
 	(void)argv;
 
