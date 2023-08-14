@@ -2,7 +2,7 @@
 #include "dog.h"
 #include <stdlib.h>
 /**
- * print_dog - prints name age and the owner
+ * print_dog - prints name, age and the owner if not null
  * @d: is the pointer to the struct dog
  * Return: Always 0
  */
