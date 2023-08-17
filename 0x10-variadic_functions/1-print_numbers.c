@@ -8,7 +8,7 @@
  * @n: number of integers passed to the string
  * Return: if separatir is NULL don't print
  */
-void print_numbers(const char *sepatator, const unsigned int n, ...)
+void print_numbers(const char *separator, const unsigned int n, ...)
 {
 	unsigned int i;
 	va_list args;
