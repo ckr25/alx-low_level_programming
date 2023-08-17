@@ -4,7 +4,7 @@
 
 /**
  * print_strings - a function that prints a string
- * @seperator: string to be printed btwn strings
+ * @separator: string to be printed btwn strings
  * @n: number of strings
  * Return: if separator is NULL dont print
  */
