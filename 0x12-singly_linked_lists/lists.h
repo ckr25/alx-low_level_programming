@@ -16,7 +16,7 @@ int _putchar(char c);
  * Description: singly list struct
  */
 
-tyoedef struct list_s
+typedef struct list_s
 {
 	char *str;
 	unsigned int len;
