@@ -3,7 +3,7 @@
 /**
  * get_endianness - checks the endianness
  *
- * Retur: 0 | 1
+ * Return: 0 | 1
  *
  */
 
